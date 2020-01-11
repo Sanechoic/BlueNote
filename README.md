@@ -1,2 +1,2 @@
-# sensing_iot
- DE4 Sensing & Iot Coursework: BlueNOte
+# DE4 Sensing & Iot Coursework: BlueNote
+ 
