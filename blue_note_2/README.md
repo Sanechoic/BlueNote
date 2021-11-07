@@ -1,4 +1,7 @@
-# blue_note_2
+# BlueNote
+
+
+##Flutter Application
 
 Bluetooth Notifications
 
