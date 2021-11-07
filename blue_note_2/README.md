@@ -1,7 +1,7 @@
 # BlueNote
 
 
-##Flutter Application
+## Flutter Application
 
 Bluetooth Notifications
 
